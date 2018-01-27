@@ -1,17 +1,12 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: 'Source Code Pro', monospace;
-  font-size: 16px;
-  color: rgb(255, 255, 255);
-  background: rgb(57, 66, 78)
-}
-
+@import 'variables';
+@import 'scaffolding';
+@import 'mixins';
+@import 'page-header';
 .site-list {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: block;
-  margin-top: 14px;
-  margin-left: 37px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: block;
+    margin-top: 14px;
+    margin-left: 37px;
 }
