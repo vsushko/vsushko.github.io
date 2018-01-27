@@ -1,0 +1,28 @@
+{
+  "name": "vsushko-personal-web-site",
+  "version": "0.1.0",
+  "description": "Vasiliy's personal website",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "autoprefixer": "^7.2.5",
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.2.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsushko/vsushko.github.io.git"
+  },
+  "author": "Vasiliy Sushko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsushko/vsushko.github.io/issues"
+  },
+  "homepage": "https://github.com/vsushko/vsushko.github.io#readme"
+}
